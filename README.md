@@ -56,9 +56,9 @@ I have always been interested in compilers and code generation. Check out [Haang
 
 ## 📫 How to reach me
 
-- **GitHub:** [Your GitHub Profile](https://github.com/crodas)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/crodas)
-- **Twitter:** [Your Twitter Handle](https://twitter.com/crodas)
+- **GitHub:** [@crodas](https://github.com/crodas)
+- **LinkedIn:** [@crodas](https://www.linkedin.com/in/crodas)
+- **Twitter:** [@crodas](https://twitter.com/crodas)
 - **Email:** cesar@rm.com.py
 
 ## ⚡ Fun Facts

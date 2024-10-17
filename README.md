@@ -4,8 +4,8 @@ I'm a passionate software developer with a strong background in Rust, backend se
 
 ## 🌟 About Me
 
-- 🔭 Currently working on a ledger database in Rust, still in the works but documenting my progress on [YouTube](https://www.youtube.com/playlist?list=PLl0vOJuOj6F9NKWyQJFrzfWO4I_zxS2b).
-- 🎥 Check out my [YouTube playlist](https://www.youtube.com/playlist?list=PLl0vOJuOj6F9NKWyQJFrzfWO4I_zxS2b) for updates on the ledger database.
+- 🔭 Currently working on a ledger database in Rust, still in the works but documenting my progress on [YouTube](https://www.youtube.com/playlist?list=PLl0vOJuOj6F9NKWyQJFrzfWO4I_zxS2bj).
+- 🎥 Check out my [YouTube playlist](https://www.youtube.com/playlist?list=PLl0vOJuOj6F9NKWyQJFrzfWO4I_zxS2bj) for updates on the ledger database.
 - 🦀 Experienced with Rust, having worked at major companies like Kraken and another Bitcoin-only exchange.
 - 🏗️ Contributed to improving architectures and implementing caching layers at Kraken.
 - 🌐 Improved and made resilient backend at another Bitcoin-only exchange, making it custodian agnostic while enhancing core product features.

@@ -14,7 +14,7 @@ I'm a passionate software developer with a strong background in Rust, backend se
 ## 🚀 Projects
 
 ### Ledger Database
-An open-source mini database written in Rust, designed to model financial transactions with ease. It includes a storage layer, an API interface, and a query language with its compiler and virtual machine. The transactions are append-only. Follow my [YouTube playlist](https://www.youtube.com/playlist?list=PLl0vOJuOj6F9NKWyQJFrzfWO4I_zxS2b) for the latest updates.
+An open-source mini database written in Rust, designed to model financial transactions with ease. It includes a storage layer, an API interface, and a query language with its compiler and virtual machine. The transactions are append-only. Follow my [YouTube playlist](https://www.youtube.com/playlist?list=PLl0vOJuOj6F9NKWyQJFrzfWO4I_zxS2bj) for the latest updates.
 
 ### [crodes/microredis](https://github.com/crodas/microredis)
 A Redis clone implemented in Rust. Heads up, the code is old, but my Rust skills have improved significantly since then.

@@ -68,5 +68,3 @@ I have always been interested in compilers and code generation. Check out [Haang
 - I'm always eager to learn new technologies and improve my craft.
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate on something exciting.
-
-![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=crodas&show_icons=true&theme=radical)

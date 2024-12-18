@@ -8,15 +8,25 @@ I'm a passionate software developer with a strong background in Rust, backend se
 - 🎥 Check out my [YouTube playlist](https://www.youtube.com/playlist?list=PLl0vOJuOj6F9NKWyQJFrzfWO4I_zxS2bj) for updates on the ledger database.
 - 🦀 Experienced with Rust, having worked at major companies like Kraken and another Bitcoin-only exchange.
 - 🏗️ Contributed to improving architectures and implementing caching layers at Kraken.
-- 🌐 Improved and made resilient backend at another Bitcoin-only exchange, making it custodian agnostic while enhancing core product features.
-- 💡 Fan of 37Signals' work and philosophy, and have been following them and DHH since the mid-2000s.
+- 🌐 Improved and made a resilient backend at another Bitcoin-only exchange, making it custodian agnostic while enhancing core product features.
+- 💡 Fan of 37Signals' work and philosophy and have been following them and DHH since the mid-2000s.
 
 ## 🚀 Projects
+
+### CDK
+
+I'm contributing actively to the [Cashu Development Kit](https://github.com/cashubtc/cdk/pulls/crodas) in Rust, which is part of the Cashu project. Cashu is a free and open-source Chaumian ecash protocol built for Bitcoin. A digital bearer token that is stored on a user's device is very similar to physical cash. The Cashu protocol allows you to build applications such as wallets or voucher systems. Transactions are instant and nearly free.
+
+Some of my contributions are:
+
+1. Add [real-time capabilities to the server](https://github.com/cashubtc/cdk/pull/394) and the [client wallet](https://github.com/cashubtc/cdk/pull/473)
+2. Add [support for shared cache with Redis](https://github.com/cashubtc/cdk/pull/495) and set the foundation for adding more storage.
+
 
 ### Ledger Database
 An open-source mini database written in Rust, designed to model financial transactions with ease. It includes a storage layer, an API interface, and a query language with its compiler and virtual machine. The transactions are append-only. Follow my [YouTube playlist](https://www.youtube.com/playlist?list=PLl0vOJuOj6F9NKWyQJFrzfWO4I_zxS2bj) for the latest updates.
 
-### [crodes/microredis](https://github.com/crodas/microredis)
+### [crodas/microredis](https://github.com/crodas/microredis)
 A Redis clone implemented in Rust. Heads up, the code is old, but my Rust skills have improved significantly since then.
 
 ### C Extensions for PHP
@@ -58,7 +68,7 @@ I have always been interested in compilers and code generation. Check out [Haang
 
 - **GitHub:** [@crodas](https://github.com/crodas)
 - **LinkedIn:** [@crodas](https://www.linkedin.com/in/crodas)
-- **Twitter:** [@crodas](https://twitter.com/crodas)
+- **Nostr:** [npub1k2q4dqk0eqlu6tp6m5zhsh852u7a8zz9wp5ewnxxmrx2q6eu8duq3ydzzr](https://snort.social/p/npub1k2q4dqk0eqlu6tp6m5zhsh852u7a8zz9wp5ewnxxmrx2q6eu8duq3ydzzr)
 - **Email:** cesar@rm.com.py
 
 ## ⚡ Fun Facts

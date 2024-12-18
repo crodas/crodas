@@ -4,6 +4,7 @@ I'm a passionate software developer with a strong background in Rust, backend se
 
 ## 🌟 About Me
 
+- [Contributor to the Cashu project](https://github.com/cashubtc/cdk/pulls/crodas)
 - 🔭 Currently working on a ledger database in Rust, still in the works but documenting my progress on [YouTube](https://www.youtube.com/playlist?list=PLl0vOJuOj6F9NKWyQJFrzfWO4I_zxS2bj).
 - 🎥 Check out my [YouTube playlist](https://www.youtube.com/playlist?list=PLl0vOJuOj6F9NKWyQJFrzfWO4I_zxS2bj) for updates on the ledger database.
 - 🦀 Experienced with Rust, having worked at major companies like Kraken and another Bitcoin-only exchange.
@@ -13,7 +14,7 @@ I'm a passionate software developer with a strong background in Rust, backend se
 
 ## 🚀 Projects
 
-### CDK
+### Cashu
 
 I'm contributing actively to the [Cashu Development Kit](https://github.com/cashubtc/cdk/pulls/crodas) in Rust, which is part of the Cashu project. Cashu is a free and open-source Chaumian ecash protocol built for Bitcoin. A digital bearer token that is stored on a user's device is very similar to physical cash. The Cashu protocol allows you to build applications such as wallets or voucher systems. Transactions are instant and nearly free.
 
